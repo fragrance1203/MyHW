@@ -6,5 +6,6 @@ public class C {
 		String result2 = str.substring(2,4);
 		System.out.println(result1);
 		System.out.println(result2);
+		System.out.println(branch_C);
  	} 
  } 
